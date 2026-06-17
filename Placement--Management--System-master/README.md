@@ -88,9 +88,5 @@ Placement Officier can have the authority to UPdate the drive, register the stud
 ## Homepage
 ### Master Homepage
 It is the Main Homepage where the Links to all the Different Logins Contain along with a link to the Drives Homepage
-### Drives Homepage
-This Page is for the Visitors to Look at the Current Placement Drives News and Other things.
 
-Original Project is created by, I have Cloned it to my local machine and modified it accordingly
-https://github.com/harithsa/Placement-Management-System
 
